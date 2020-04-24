@@ -23,7 +23,7 @@ while a < b and b < c:
             b = b + 1
             c = n - a - b
         else:
-            print(a, b, c)
+            print(a, b, c, a * b * c)
             # break
             b = b + 1
             c = n - a - b

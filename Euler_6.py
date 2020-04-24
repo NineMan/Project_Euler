@@ -15,6 +15,7 @@
 
 """
 
+
 sum_square = 0
 square_amount = 0
 
